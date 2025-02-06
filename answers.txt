@@ -5,3 +5,17 @@
    Cons:
    - Requires constant communication, which can slow progress.
    - Difficult to predict timelines and scope creep is common.
+
+2. Scrum Master vs Product Owner
+Scrum Master Responsibilities:
+
+Ensures the team follows Scrum principles and Agile best practices.
+Facilitates daily stand-ups, sprint planning, and retrospectives.
+Removes obstacles that block team progress.
+Acts as a coach for the development team to improve Agile efficiency.
+Product Owner Responsibilities:
+
+Defines the product vision and manages the backlog.
+Prioritizes user stories based on business value and stakeholder input.
+Communicates with stakeholders to refine requirements.
+Ensures the development team delivers features that meet user needs.
