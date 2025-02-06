@@ -35,3 +35,21 @@ Sprint Review & Retrospective:
 
 Sprint Review: Demonstrate completed work to stakeholders.
 Sprint Retrospective: Discuss what went well, what didn’t, and what to improve.
+
+4. JIRA Issue Types: Epic vs Story vs Bug vs Task
+Epic:
+
+A large feature or objective that consists of multiple stories.
+Example: "Implement user authentication system."
+Story:
+
+A specific feature or requirement that delivers value.
+Example: "As a user, I want to log in using Google OAuth."
+Bug:
+
+A defect or issue that needs to be fixed.
+Example: "Login button crashes on Safari browser."
+Task:
+
+A general work item that needs to be completed.
+Example: "Set up the database schema."
