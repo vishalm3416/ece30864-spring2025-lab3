@@ -19,3 +19,19 @@ Defines the product vision and manages the backlog.
 Prioritizes user stories based on business value and stakeholder input.
 Communicates with stakeholders to refine requirements.
 Ensures the development team delivers features that meet user needs.
+
+3. Sprint Meetings and Their Discussions
+Sprint Planning:
+
+Define the sprint goal and scope.
+Select user stories from the backlog.
+Break stories into tasks and estimate effort.
+Daily Stand-Up (Scrum Meeting):
+
+What was completed yesterday?
+What will be worked on today?
+Any blockers or obstacles?
+Sprint Review & Retrospective:
+
+Sprint Review: Demonstrate completed work to stakeholders.
+Sprint Retrospective: Discuss what went well, what didn’t, and what to improve.
